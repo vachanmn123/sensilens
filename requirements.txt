@@ -1,0 +1,9 @@
+opencv-python
+torch
+numpy
+playsound
+piper-tts
+wave
+pydub
+simpleaudio
+ultralytics
